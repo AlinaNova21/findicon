@@ -1,0 +1,13 @@
+{
+  "name": "findicon",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "bin":{
+  	"findicon":"cli.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "multi-ini": "^1.0.0"
+  }
+}
